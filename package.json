@@ -1,0 +1,26 @@
+{
+  "name": "frankencoffee",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://GillesPl@github.com/GillesPl/frankencoffee.git"
+  },
+  "author": "Gilles & Downey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GillesPl/frankencoffee/issues"
+  },
+  "homepage": "https://github.com/GillesPl/frankencoffee#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-ejs-layouts": "^2.3.0",
+    "mongodb": "^2.2.25",
+    "nodemon": "^1.11.0"
+  }
+}
